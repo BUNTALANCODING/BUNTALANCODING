@@ -1,4 +1,4 @@
-perbaiki ini # Halo semua! 
+# Halo semua! 
 
 Perkenalkan nama saya **Mohammad Syahdzani Akbar Setyawan**.\
 
