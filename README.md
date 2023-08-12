@@ -13,7 +13,7 @@ Saya senang untuk berkolaborasi, belajar bersama, atau berbicara lebih lanjut te
 
 <p align="left">
 <a href="https://github.com/BUNTALANCODING">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=BUNTALANCODING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
