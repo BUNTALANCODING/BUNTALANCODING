@@ -6,8 +6,8 @@ Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.polije.ac.id/)
 
 ## Kontak
 
-- LinkedIn: [Profil LinkedIn Anda](link-ke-profil-linkedin)
-- Email: [alamat.email@anda.com](mailto:alamat.email@anda.com)
+- LinkedIn: [Mohammad Syahdzani Akbar Setyawan](https://www.linkedin.com/in/mohammad-syahdzani-akbar-setyawan-287242247)
+- Email: [syhdzn1703@gmail.com](syhdzn1703@gmail.com)
 
 Saya senang untuk berkolaborasi, belajar bersama, atau berbicara lebih lanjut tentang topik yang saya minati. Jika Anda memiliki ide atau proyek, jangan ragu untuk menghubungi saya!
 
