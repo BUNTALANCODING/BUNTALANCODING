@@ -2,7 +2,7 @@
 
 Halo! Nama saya **Mohammad Syahdzani Akbar Setyawan**.
 
-Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang tengah mengejar ilmu dalam jurusan **Teknik Informatika**. Saya termasuk dalam kelas kerja sama antara [CCIT - FTUI](https://ccit.ftui.ac.id/) dan [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang merupakan kolaborasi yang menarik dalam dunia teknologi informasi.
+Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang tengah mengejar ilmu dalam jurusan **Teknik Informatika**. Saya termasuk dalam kelas kerja sama antara [CCIT - FTUI](https://ccit.eng.ui.ac.id/) dan [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang merupakan kolaborasi yang menarik dalam dunia teknologi informasi.
 
 ## Kontak
 
