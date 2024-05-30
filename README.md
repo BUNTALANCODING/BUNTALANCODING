@@ -24,8 +24,8 @@ Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), y
 
 <p align="left">
 <a href="https://github.com/BUNTALANCODING">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODIN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODIN&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
