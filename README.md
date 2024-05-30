@@ -4,7 +4,7 @@ Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tetapi boleh panggil saya Akba
 
 Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga implementasi, menjadi sumber rasa ingin tahu dan antusiasme saya. Setiap hari, saya dengan penuh semangat menyerap pengetahuan baru, mengasah keterampilan saya untuk menciptakan solusi inovatif yang diadaptasi khusus untuk platform mobile.
 
-## My Tech Stack
+## 💻 My Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
