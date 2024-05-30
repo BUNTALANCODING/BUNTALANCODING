@@ -1,10 +1,10 @@
-## 👋 Hi, Nama saya Akbar
+# 👋 Hi, Nama saya Akbar
 
 Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tetapi boleh panggil saya Akbar. Saat ini saya sedang menempuh studi di bidang Teknik Informatika di Politeknik Negeri Jakarta. Minat saya tertuju pada perkembangan teknologi yang terus bergerak maju, terutama di ranah pengembangan aplikasi mobile yang dinamis.
 
 Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga implementasi, menjadi sumber rasa ingin tahu dan antusiasme saya. Setiap hari, saya dengan penuh semangat menyerap pengetahuan baru, mengasah keterampilan saya untuk menciptakan solusi inovatif yang diadaptasi khusus untuk platform mobile.
 
-## 💻 My Tech Stack
+# 💻 My Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,7 +26,7 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 ### I'm Currently Learning These!
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🏆 My GitHub Stats
+# 🏆 My GitHub Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BUNTALANCODING&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BUNTALANCODING&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
@@ -37,7 +37,7 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 </a>
 </p>
 
-## ✨ Find me on social media:
+# ✨ Find me on social media:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-syahdzani-akbar-setyawan-287242247/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syhdzn)
