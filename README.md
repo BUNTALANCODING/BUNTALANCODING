@@ -22,9 +22,9 @@ Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), y
 
 ## My GitHub Stats
 
-![Gare's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Gare's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BUNTALANCODING&theme=radical)
 
 ## Find me on social media:
 
