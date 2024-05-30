@@ -1,8 +1,10 @@
-# Tentang Saya
+## 👋 Hi, Nama saya Akbar
 
-Halo! Nama saya **Mohammad Syahdzani Akbar Setyawan**.
+Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tapi kamu bisa panggil saya Akbar. Saat ini, saya sedang menempuh studi Informatika di Politeknik Negeri Jakarta. Yang benar-benar membuat saya bersemangat adalah segala hal yang berhubungan dengan teknologi. Saya adalah tipe orang yang selalu penasaran, selalu siap untuk menyelami hal-hal baru dan menantang.
 
-Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang tengah mengejar ilmu dalam jurusan **Teknik Informatika**. Saya termasuk dalam kelas kerja sama antara [CCIT - FTUI](https://ccit.eng.ui.ac.id/) dan [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), yang merupakan kolaborasi yang menarik dalam dunia teknologi informasi.
+Perjalanan saya di dunia teknologi telah membawa saya menjadi seorang pengembangan mobile, yang benar-benar mengasyikkan.
+
+Setiap hari, selalu ada sesuatu yang baru untuk dipelajari, dan itu yang membuat saya tetap bersemangat. Entah itu bahasa pemrograman baru, teknologi mutakhir, atau hanya cara baru untuk memecahkan masalah, saya selalu siap.
 
 ## My Tech Stack
 
