@@ -22,9 +22,12 @@ Saya seorang mahasiswa di [Politeknik Negeri Jakarta](https://www.pnj.ac.id/), y
 
 ## My GitHub Stats
 
-![Gare's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BUNTALANCODING&theme=radical)
+<p align="left">
+<a href="https://github.com/BUNTALANCODING">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODIN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODIN&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ## Find me on social media:
 
