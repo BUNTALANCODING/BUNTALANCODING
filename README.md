@@ -1,10 +1,8 @@
 ## 👋 Hi, Nama saya Akbar
 
-Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tapi kamu bisa panggil saya Akbar. Saat ini, saya sedang menempuh studi Informatika di Politeknik Negeri Jakarta. Yang benar-benar membuat saya bersemangat adalah segala hal yang berhubungan dengan teknologi. Saya adalah tipe orang yang selalu penasaran, selalu siap untuk menyelami hal-hal baru dan menantang.
+Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tetapi boleh panggil saya Akbar. Saat ini saya sedang menempuh studi di bidang Teknik Informatika di Politeknik Negeri Jakarta. Minat saya tertuju pada perkembangan teknologi yang terus bergerak maju, terutama di ranah pengembangan aplikasi mobile yang dinamis.
 
-Perjalanan saya di dunia teknologi telah membawa saya menjadi seorang pengembangan mobile, yang benar-benar mengasyikkan.
-
-Setiap hari, selalu ada sesuatu yang baru untuk dipelajari, dan itu yang membuat saya tetap bersemangat. Entah itu bahasa pemrograman baru, teknologi mutakhir, atau hanya cara baru untuk memecahkan masalah, saya selalu siap.
+Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga implementasi, menjadi sumber rasa ingin tahu dan antusiasme saya. Setiap hari, saya dengan penuh semangat menyerap pengetahuan baru, mengasah keterampilan saya untuk menciptakan solusi inovatif yang diadaptasi khusus untuk platform mobile.
 
 ## My Tech Stack
 
