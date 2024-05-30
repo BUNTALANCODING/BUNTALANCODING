@@ -30,8 +30,8 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 
 <p align="left">
 <a href="https://github.com/BUNTALANCODING">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BUNTALANCODING&layout=compact&layout=compact&theme=radical"/>
 </a>
 </p>
 
