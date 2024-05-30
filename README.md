@@ -28,6 +28,8 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 
 ## 🏆 My GitHub Stats
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
 <a href="https://github.com/BUNTALANCODING">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BUNTALANCODING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
