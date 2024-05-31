@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/tugasakhirapp-c5669.appspot.com/o/images%2Fimage_1716701194698.jpg?alt=media&token=47afdaf0-325d-48ed-80e0-2808e02f0941)
 <h1 align="center">👋 Hi, Nama saya Akbar</h1>
 
 Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tetapi boleh panggil saya Akbar. Saat ini saya sedang menempuh studi di bidang Teknik Informatika di Politeknik Negeri Jakarta. Minat saya tertuju pada perkembangan teknologi yang terus bergerak maju, terutama di ranah pengembangan aplikasi mobile yang dinamis.
