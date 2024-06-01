@@ -43,4 +43,3 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-syahdzani-akbar-setyawan-287242247/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syhdzn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syhdzn1703@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BUNTALANCODING&label=Profile%20views&color=0e75b6&style=flat" alt="BUTALANCODING" /> </p>
