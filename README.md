@@ -23,6 +23,12 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 ### Extras
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postman-l?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange&color=orange)
+![Static Badge](https://img.shields.io/badge/Trello-l?style=for-the-badge&logo=trello&logoColor=white&labelColor=%230052CC&color=%230052CC)
+![Static Badge](https://img.shields.io/badge/Google%20Collab-l?style=for-the-badge&logo=google%20colab&logoColor=white&labelColor=%23F9AB00&color=%23F9AB00)
+![Static Badge](https://img.shields.io/badge/Notion-l?style=for-the-badge&logo=notion&logoColor=white&labelColor=%23000000&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-l?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=%233DDC84&color=%233DDC84)
+![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
 ### I'm Currently Learning These!
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
