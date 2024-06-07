@@ -17,7 +17,7 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Databases And API
+### Databases & API
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Static Badge](https://img.shields.io/badge/Postman-l?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange&color=orange)
 
