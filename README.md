@@ -30,6 +30,9 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 ![Canva](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### I'm Currently Learning These!
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 # 🏆 My GitHub Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BUNTALANCODING&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
