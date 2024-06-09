@@ -28,8 +28,6 @@ Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga
 ![Google collab](https://img.shields.io/badge/Google%20Collab-l?style=for-the-badge&logo=google%20colab&logoColor=white&labelColor=%23F9AB00&color=%23F9AB00)
 ![Notion](https://img.shields.io/badge/Notion-l?style=for-the-badge&logo=notion&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Canva](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
-
-### I'm Currently Learning These!
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 🏆 My GitHub Stats
