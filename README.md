@@ -1,6 +1,8 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/tugasakhirapp-c5669.appspot.com/o/images%2Fdownload.gif?alt=media&token=6144f96b-00d0-46bc-8f2a-113cf8ae9676)
 <h1 align="center">👋 Hi, Nama saya Akbar</h1>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=BUNTALANCODINGf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 Hai! Nama saya Mohammad Syahdzani Akbar Setyawan, tetapi boleh panggil saya Akbar. Saat ini saya sedang menempuh studi di bidang Teknik Informatika di Politeknik Negeri Jakarta. Minat saya tertuju pada perkembangan teknologi yang terus bergerak maju, terutama di ranah pengembangan aplikasi mobile yang dinamis.
 
 Eksplorasi mendalam terhadap aplikasi mobile, dari proses konseptualisasi hingga implementasi, menjadi sumber rasa ingin tahu dan antusiasme saya. Setiap hari, saya dengan penuh semangat menyerap pengetahuan baru, mengasah keterampilan saya untuk menciptakan solusi inovatif yang diadaptasi khusus untuk platform mobile.
